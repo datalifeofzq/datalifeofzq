@@ -17,8 +17,8 @@ I'm a **`Data Analyst Practitioner`** that loves to solve all types of problems,
 * 👩‍🎓 Graduated from Florida State University with a Bachelor's Degree in Management Information Systems and a Bachelor's Degree in Economics. 
 * ✍️ Currently working on my SQL and Python skills. As well as, improving my storytelling skills using Tableau.
 * 👔 Started my own business in 2021 that grossed $500,000 in revenue within six months.
-* 🤔 I don’t trust people who don’t write SQL queries in uppercase.
 * 🏋️ Love to go to the gym on a daily basis
+* 🤔 I don’t trust people who don’t write SQL queries in uppercase.
 * 📈 Interested in using SQL and applying statistical models to solve interesting novel business problems.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:**
